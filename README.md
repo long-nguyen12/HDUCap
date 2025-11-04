@@ -3,7 +3,7 @@
 
 ## Overview
 This repository provides the dataset used in the study *"HDUCap: A Natural Scene Dataset and Spatially-Aware Transformer Baseline for Vietnamese Image Captioning."*  
-**Dataset:** [link](https://drive.google.com/).
+**Dataset:** [link]([https://drive.google.com/](https://drive.google.com/file/d/1dDPjwjkFNq19RCn2JzFgziLZFWTLhDxJ/view?usp=sharing)).
 
 ## Dataset Structure
 - **`data/images/`**: Contains all image files used for captioning tasks. Each image corresponds to one or more Vietnamese captions.
