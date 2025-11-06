@@ -18,3 +18,6 @@ This repository provides the dataset used in the study *"HDUCap: A Natural Scene
 For questions or collaborations, please contact:  
 **Dinh Cong Nguyen** – `nguyendinhcong@hdu.edu.vn`
   
+## Acknowledgements
+This code is strongly based on [OpenViIC](https://github.com/nghiangh/OpenViIC).
+We gratefully acknowledge the authors of OpenViIC for providing open resources for image captioning research.
